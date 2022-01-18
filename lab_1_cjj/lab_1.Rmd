@@ -1,0 +1,20 @@
+---
+title: "esm_244_lab_1"
+author: "Conner Jainese"
+date: "1/17/2022"
+output: html_document
+---
+
+```{r setup, include=TRUE, warning=FALSE, message=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+
+
+
+```
+
+
+
+
+
+
+
